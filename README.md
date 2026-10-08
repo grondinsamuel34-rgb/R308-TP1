@@ -6,7 +6,7 @@ TP1 du module **R308** (BUT Réseaux & Télécommunications, 2ᵉ année).
 
 | Fichier | Description |
 |---------|-------------|
-| _à compléter_ | |
+| `dictionnary_etudiant.py` | Dictionnaire des étudiants (nom → note) et affichage des notes |
 
 ## Prérequis
 
